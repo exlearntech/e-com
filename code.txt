@@ -3,3 +3,4 @@ day 2 code - 2
 day 3 code - 3
 ------------------------
 day 4 - gui
+adding new line to check git fetch and pull
